@@ -73,3 +73,7 @@ function draw() {
   walker.show();
 }
 ```
+
+## Mi obra medio maestra
+
+![Imagen creada de mi Random Walk](../../../../assets/Actividad03.jpg)
