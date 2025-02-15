@@ -1,5 +1,6 @@
 # CODE
 
+``` js
 let particles = [];
 let font;
 let points = [];
@@ -107,5 +108,7 @@ class Particle {
       ellipse(this.position.x, this.position.y, this.size);
     }
   }
-  
+
+```
+
 Yo queria que el codigo funcionara mediante inputs de microfono y reconociera la voz sin embargo se salia demasiado de mis conocimientos tecnicos y ya depeneder enteramente de IA no me llamaba la atencion. Para realizar este proyecto use IA para poder generar el codigo, sin embargo le planteamiento y  el entendimiento del codigo si fueron realizados por mi, no ib a aponer un codigo que no conociera como funciona bien.
