@@ -11,3 +11,12 @@ x es la distancia en el eje horizontal
 y es la distancia en el eje vertical
 
 Su relacion es directamente involucrada con la funcion trigonometrica de seno y coseno puesto que esta nos permite mudar de un plano cartesiano a un plano polar una serie de cordenadas x,y
+
+
+¿Qué ocurre? ¿Por qué?
+
+El codigo falla por que no hay definicion de X ni de y
+
+¿Qué ocurre aquí? ¿Por qué?
+
+Ahi lo que sucede es que ahora la bolita puede moverse en un circulo completo puesto que es mas facil tener el movimiento circular orientado en coordenadas polares. 
