@@ -10,7 +10,7 @@ The way the sistem should handle the creation and destruction of particles is to
 
 ## Coding
 
-'''js
+```js
 // Interactive Catapult with Wind Physics System - Complete
 // Inspired by The Nature of Code by Daniel Shiffman
 
@@ -477,7 +477,7 @@ class Star extends TossedObject {
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
-'''
+```
 
 ## Explicacion
 
