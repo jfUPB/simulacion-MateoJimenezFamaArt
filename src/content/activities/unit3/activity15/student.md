@@ -1,0 +1,1 @@
+Considero que conceptualmente me encuentro en un 5/5 puesto que comprendo todos los elementos desde el refactoring al motion 101 que se realizo hasta el entendimiento de como se modela una fuerza existente o nueva en el mundo del codigo y sobre los medios de producirla que tengo  
